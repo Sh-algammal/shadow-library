@@ -32,7 +32,7 @@ This project simulates a basic online book portal with pages like Register, Logi
 
 ## 🔗 Live Demo
 
-👉 [Click here to visit the site](https://Sh-algammal.github.io/shadow-library/) *(Add the real link)*
+👉 [Click here to visit the site](https://Sh-algammal.github.io/shadow-library/)
 
 ---
 
